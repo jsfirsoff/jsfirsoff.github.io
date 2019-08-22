@@ -1,6 +1,17 @@
 html {
   height: 100%;
 }
+h1 {
+  text-align: center;
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  color: #610246; 
+   text-shadow: 
+    1px 1px 8px black, 
+    0.5em -0.5em 0 white, 
+    1em 0.4em 0 grey, 
+    1.5em 0.4em 10vw grey, 
+    0 0 10vw white;
+}
 .bg {
   height: 100%;
   margin: 0px;
