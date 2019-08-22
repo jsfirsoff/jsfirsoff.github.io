@@ -1,3 +1,8 @@
+html {
+  height: 100%;
+}
 .bg {
-  background: linear-gradient(45deg, #93e6e0, #c0fc9f, #ddccf0) no-repeat;
+  height: 100%;
+  margin: 0px;
+  background: linear-gradient(45deg, #93e6e0 25%, #c0fc9f 50%, #ddccf0 80%) no-repeat fixed;
 }
